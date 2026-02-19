@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Johandriy Peña 🎓
 
-<!--
-**Johanssonxd/Johanssonxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de programación, intento siempre seguir aprendiendo para llegar a ser un buen profesional.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Un poco sobre mí
+
+- **📓 Formación Académica**: Facultad de Estudios Superiores Aragón - UNAM / Platzi Academy
+
+- **📍 Residencia**: Ciudad de México 
+
+- **🕹️ Hobbies**: Escuchar música, Videojuegos y Deporte.
+
+- **💼 Interés profesional**: Desarrollo de software y Data Engineering.
+
+## Habilidades
+
+- Meticuloso
+- Organizado
+- Enfoque proactivo
+- Adaptable
+- Resiliente
+
+## Conocimientos Tecnológicos
+
+- **Lenguajes de Programación**: ```Python```, ```JavaScript```, ```C++```, ```Java```, ```CSS```, ```HTML```.
+- **Bases de Datos**: MySQL
+- **Herramientas**: Git, GitHub, Paqueteria Office.
+
+## Contacto
+
+- **📧 Correo**: [Email](mailto:johandriy@gmail.com)
