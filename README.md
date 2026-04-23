@@ -23,8 +23,8 @@ Soy estudiante de programación, intento siempre seguir aprendiendo para llegar 
 
 ## Conocimientos Tecnológicos
 
-- **Lenguajes de Programación**: ```Python```, ```JavaScript```, ```C++```, ```Java```, ```CSS```, ```HTML```.
-- **Bases de Datos**: MySQL
+- **Lenguajes de Programación**: ```Python```, ```JavaScript```, ```C++```, ```Java```.
+- **Tecnologías**: ```CSS```, ```HTML```, ```MySQL```, Spring Boot, Docker.
 - **Herramientas**: Git, GitHub, Paqueteria Office.
 
 ## Contacto
